@@ -65,6 +65,9 @@ jobs:
     - checkName: filebeat
       displayName: Filebeat
       os: linux
+    - checkName: filemage
+      displayName: filemage
+      os: linux
     - checkName: fluentbit
       displayName: Fluent Bit
       os: linux
@@ -86,8 +89,14 @@ jobs:
     - checkName: gnatsd_streaming
       displayName: Gnatsd Streaming
       os: linux
+    - checkName: go_pprof_scraper
+      displayName: go_pprof_scraper
+      os: linux
     - checkName: grpc_check
       displayName: gRPC Check
+      os: linux
+    - checkName: hikaricp
+      displayName: hikaricp
       os: linux
     - checkName: jfrog_platform
       displayName: JFrog Platform
@@ -166,6 +175,9 @@ jobs:
       os: linux
     - checkName: riak_repl
       displayName: Riak MDC Replication
+      os: linux
+    - checkName: scalr
+      displayName: Scalr
       os: linux
     - checkName: sendmail
       displayName: Sendmail
