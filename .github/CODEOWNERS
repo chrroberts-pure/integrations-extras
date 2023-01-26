@@ -26,6 +26,7 @@
 /bonsai/                                 dev@onemorecloud.com
 /botprise/                               @codechefnisha-bp nisha.kumari@botprise.com
 /buddy/                                  support@buddy.works
+/buoyant_cloud/                          @BuoyantIO/buoys @DataDog/marketplace-review
 /cfssl/                                  @JeanFred
 /cloudsmith/                             @cloudsmith ccarey@cloudsmith.io @DataDog/marketplace-review
 /cockroachdb_dedicated/                  @DataDog/web-integrations
@@ -109,7 +110,7 @@
 /puma/                                   @plasticine
 /purefa/                                 @chrroberts-pure pure-observability@purestorage.com @DataDog/marketplace-review
 /purefb/                                 @chrroberts-pure pure-observability@purestorage.com @DataDog/marketplace-review
-/rbltracker/                             @DataDog/container-integrations
+/rbltracker/                             @DataDog/agent-integrations
 /reboot_required/                        @montdidier support@krugerheavyindustries.com
 /redisenterprise/                        @maguec christian@redislabs.com
 /redis_sentinel/                         @DataDog/agent-integrations
@@ -144,6 +145,7 @@
 /stackpulse/                             @torqio/rnd support@torq.io
 /stardog/                                @snowell support@stardog.com
 /statsig/                                @marcos-statsig support@statsig.com
+/steadybit/                              @bripkens support@steadybit.com @DataDog/marketplace-review
 /storm/                                  @platinummonkey
 /stormforge/                             @bradbeam @tperol support@stormforge.io @DataDog/marketplace-review
 /superwise/                              @oryan-omer support@superwise.ai @DataDog/marketplace-review
@@ -397,9 +399,9 @@
 /puma/*metadata.csv                      @plasticine @DataDog/documentation
 /puma/manifest.json                      @plasticine @DataDog/documentation
 /puma/README.md                          @plasticine @DataDog/documentation
-/rbltracker/*metadata.csv                @DataDog/container-integrations @DataDog/documentation
-/rbltracker/manifest.json                @DataDog/container-integrations @DataDog/documentation
-/rbltracker/README.md                    @DataDog/container-integrations @DataDog/documentation
+/rbltracker/*metadata.csv                @DataDog/agent-integrations @DataDog/documentation
+/rbltracker/manifest.json                @DataDog/agent-integrations @DataDog/documentation
+/rbltracker/README.md                    @DataDog/agent-integrations @DataDog/documentation
 /reboot_required/*metadata.csv           @montdidier support@krugerheavyindustries.com @DataDog/documentation
 /reboot_required/manifest.json           @montdidier support@krugerheavyindustries.com @DataDog/documentation
 /reboot_required/README.md               @montdidier support@krugerheavyindustries.com @DataDog/documentation
@@ -470,6 +472,9 @@
 /statsig/*metadata.csv                   @marcos-statsig support@statsig.com @DataDog/documentation
 /statsig/manifest.json                   @marcos-statsig support@statsig.com @DataDog/documentation
 /statsig/README.md                       @marcos-statsig support@statsig.com @DataDog/documentation
+/steadybit/*metadata.csv                 @bripkens support@steadybit.com @DataDog/documentation @DataDog/marketplace-review
+/steadybit/manifest.json                 @bripkens support@steadybit.com @DataDog/documentation @DataDog/marketplace-review
+/steadybit/README.md                     @bripkens support@steadybit.com @DataDog/documentation @DataDog/marketplace-review
 /storm/*metadata.csv                     @platinummonkey @DataDog/documentation
 /storm/manifest.json                     @platinummonkey @DataDog/documentation
 /storm/README.md                         @platinummonkey @DataDog/documentation
